@@ -3,8 +3,9 @@
 A desktop Tic Tac Toe game built with **Java Swing**.  
 
 This project demonstrates event-driven programming, GUI development, and clean, well-documented Java code.
-
+--
 **Features**
+
 Interactive 3×3 Tic Tac Toe board
 
 Clear turn indicator at the top (e.g., "X Turn", "O Turn")
@@ -38,6 +39,7 @@ UI-safe timing using Swing Timer (no UI freezing)
 
 
 **Technologies Used**
+
 
 Java (Java 25)
 
