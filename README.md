@@ -5,18 +5,26 @@ This project demonstrates event-driven programming, GUI development, and clean, 
 ---
 ## Screenshot
 
-![Tic Tac Toe Screenshot](screenshot.png)
+
 
 ---
 ## Features
 Interactive 3×3 Tic Tac Toe board
+
 Clear turn indicator at the top (e.g., "X Turn", "O Turn")
+
 Menu bar with the following options:
+
 File → New Game (resets the board)
+
 File → Exit (closes the application)
+
 Automatic win detection for:
+
 Rows
+
 Columns
+
 Diagonals
 Draw detection when all cells are filled and no player wins
 Game-over dialog that announces:
