@@ -37,7 +37,7 @@ Option to Play Again without restarting the application
 
 UI-safe timing using Swing Timer (no UI freezing)
 
-
+---
 **Technologies Used**
 
 
